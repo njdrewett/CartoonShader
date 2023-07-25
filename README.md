@@ -18,6 +18,12 @@ In Post Processor settings,
 
 # Unity
 
+Use: 
+URP and embedded only
+Copy Unity shader and material into your project.
+
+Add to Render pipeline as a FullScreenRenderShader using the cel Shader material. This is done by adding 
+a FullSceneRenderComponent to the URP render settings and selecting the material
 
 
 # Unreal ScreenShots
